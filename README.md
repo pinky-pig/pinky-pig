@@ -2,9 +2,10 @@
 
 Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活在南京。  
 
-我喜欢开源，也很喜欢折腾，目前正在朝着这方面努力学习
+我喜欢前端，也很喜欢折腾新技术，目前正在朝着这方面努力学习
 
-- 🍑 个人周刊 <https://what-is-my-astro-blog.vercel.app/> 
+- 🌸 个人网站 <https://mmeme.me/> 
+- 🍑 个人周刊 <https://weekly.mmeme.me/> 
 - 🌻 NPM <https://www.npmjs.com/~pinky-pig> 
 
 ### Little Project
