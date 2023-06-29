@@ -6,12 +6,12 @@ Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活�
 
 - 🌸 个人网站 <https://mmeme.me/> 
 - 🍑 个人周刊 <https://weekly.mmeme.me/> 
-- 🌻 NPM <https://www.npmjs.com/~pinky-pig> 
 
 ### Little Project
 
-- 🍟 随机背景组件 <https://pinky-pig.github.io/what-is-my-random-bg/>
-- 🍟 Vue3 拖拽组件 <https://v3-dragblock-demo.vercel.app/>
+- 🍟 HTML编辑渲染 [https://playground.mmeme.me/](https://playground.mmeme.me/)
+- 🍟 HTML编辑渲染 [https://svgpath.mmeme.me/](https://svgpath.mmeme.me/)
+- 🍟 Vue3 拖拽组件 [https://dragblock.mmeme.me/](https://dragblock.mmeme.me/)
 
 <!-- <details>
 <summary>中文简介</summary>
