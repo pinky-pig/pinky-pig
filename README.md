@@ -9,8 +9,7 @@ Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活�
 
 ### Little Project
 
-- 🍟 HTML编辑渲染 [https://playground.mmeme.me/](https://playground.mmeme.me/)
-- 🍔 SVG 路径编辑 [https://svgpath.mmeme.me/](https://svgpath.mmeme.me/)
+- 🍟 Superellipse 超椭圆 [https://superellipse.mmeme.me/](https://superellipse.mmeme.me/)
 - 🍕 Vue3 拖拽组件 [https://dragblock.mmeme.me/](https://dragblock.mmeme.me/)
 
 <!-- <details>
