@@ -10,6 +10,7 @@ Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活�
 
 - 🍟 Superellipse 超椭圆 [https://superellipse.mmeme.me/](https://superellipse.mmeme.me/)
 - 🍕 Vue3 拖拽组件 [https://dragblock.mmeme.me/](https://dragblock.mmeme.me/)
+- 🎉 地区节日查询 [https://holiday.mmeme.me/](https://holiday.mmeme.me/)
 
 <!-- <details>
 <summary>中文简介</summary>
@@ -18,7 +19,7 @@ Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活�
 
 [Profile](https://mmeme.me/)
 </details> 
-<sub>我喜欢开源，也很喜欢折腾，目前正在朝着这方面努力学习</sub>
+<sub>我喜欢前端，也很喜欢折腾，目前正在朝着这方面努力学习</sub>
 -->
 
 
