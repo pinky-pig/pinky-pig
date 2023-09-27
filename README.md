@@ -11,6 +11,7 @@ Hi, 我是王文博，前端开发者，有三年的开发经验，目前生活�
 - 🍟 Superellipse 超椭圆 [https://superellipse.mmeme.me/](https://superellipse.mmeme.me/)
 - 🍕 Vue3 拖拽组件 [https://dragblock.mmeme.me/](https://dragblock.mmeme.me/)
 - 🎉 地区节日查询 [https://holiday.mmeme.me/](https://holiday.mmeme.me/)
+- 🍦 浏览器插件-鼠标小尾巴 [https://github.com/pinky-pig/what-is-my-mouse-trail](https://github.com/pinky-pig/what-is-my-mouse-trail)
 
 <!-- <details>
 <summary>中文简介</summary>
