@@ -10,6 +10,7 @@ Hi, 我是王文博，前端开发者，有四年的开发经验，目前生活�
 
 - 🍟 Superellipse 超椭圆 [https://superellipse.mmeme.me/](https://superellipse.mmeme.me/)
 - 🍕 Vue3 拖拽组件 [https://v3bento.mmeme.me/](https://v3bento.mmeme.me/)
+- 🍞 Vue3 Hot Toast 提示组件 [https://vue3-hot-toast.netlify.app/](https://vue3-hot-toast.netlify.app/)
 
 <!-- <details>
 <summary>中文简介</summary>
